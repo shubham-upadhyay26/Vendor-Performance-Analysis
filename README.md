@@ -100,6 +100,7 @@ The project includes data ingestion, data cleaning, exploratory data analysis, v
 
 The Power BI dashboard provides an interactive view of vendor performance, sales trends, purchasing patterns, and key business metrics.
 
+![Power BI Dashboard](images/dashboard.png)
 
 
 \## Dataset
